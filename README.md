@@ -1,3 +1,2 @@
 # _Vicenzo Varandas_
-
-## Estudante do SENAI
+Estudante do SENAI
