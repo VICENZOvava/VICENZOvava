@@ -8,9 +8,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VICENZOvava/Arquivo-C/refs/heads/main/BANNER.png" alt="Imagem Feita por mim" width="795">
-</p>
 
 <div align="center">
   <a href="https://github.com/VICENZOvava">
@@ -18,6 +15,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VICENZOvava&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Estatísticas do perfil de Vicenzo" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VICENZOvava/Arquivo-C/refs/heads/main/BANNER.png" alt="Imagem Feita por mim" width="795">
+</p>
 
 <div align="center">
   <h3>Obrigado pela visita! 👋</h3>
