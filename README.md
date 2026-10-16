@@ -1,7 +1,6 @@
 ﻿# Vicenzo Vieira Varandas
 
 <div align="center">
-  <p>Olá! Bem-vindo ao meu GitHub.</p>
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=Bem-vindo+ao+meu+GitHub!;Projetos%2C+ideias+e+aprendizados" alt="Texto animado de boas-vindas" />
   <a href="https://github.com/VICENZOvava">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VICENZOvava&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Estatísticas do perfil de Vicenzo" />
