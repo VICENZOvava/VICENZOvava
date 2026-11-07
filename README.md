@@ -5,7 +5,6 @@
 </div>
 
 
-## Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,js,html,css,git,github,vscode&theme=dark" alt="Tecnologias" />
@@ -13,7 +12,6 @@
 
 ---
 
-## Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VICENZOvava&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" alt="Estatísticas do perfil de Vicenzo" />
